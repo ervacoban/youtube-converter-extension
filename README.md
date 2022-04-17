@@ -2,4 +2,4 @@
 
 A simple browser extension using the <a href = "https://www.yt-download.org/developers" target = "_blank">YT-Download API</a>
 
-![Preview](preview.gif)
+<img src="./preview.gif" width="50%" height="50%"/>
