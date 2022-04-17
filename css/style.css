@@ -1,0 +1,31 @@
+.div {
+    width: 250px;
+    text-align: center;
+    margin: auto;
+}
+
+.button {
+    border: 1px solid black;
+    color: white;
+    display: inline-block;
+    width: 45%;
+    margin: 2px;
+    padding: 2px;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+
+.button1 {
+    background-color: #4CAF50;
+}
+
+    .button1:hover {
+        background-color: #07700b;
+    }
+
+.button2 {
+    background-color: #e6ae14;
+}
+    .button2:hover {
+        background-color: #ad8107;
+    }
